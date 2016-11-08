@@ -1,4 +1,7 @@
-**Beginning of OSM Community in Bhutan**
+---
+layout: post
+title: Beginning of OSM Community in Bhutan
+---
 
 World Bank Bhutan in consultation with the Thimphu Thromde partnered with Kathmandu Living Labs(KLL) and Humanitarian OpenStreetMap(HOT) team to start the OpenStreetMap(OSM) movement in Bhutan. The plan was to sensitize the government officials and build their capacity to create and use map data using open source platforms like OpenStreetMap and QGIS. We also had planned on training students from Royal Thimphu College(RTC) on crowdsource gis and mapping in OSM.
 
