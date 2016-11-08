@@ -21,7 +21,7 @@ It was interesting to see the excitement of the government officials regarding O
 
 ![_config.yml]({{ site.baseurl }}/images/bhutan_2.jpg) ![_config.yml]({{ site.baseurl }}/images/bhutan_3.jpg)
 
-**Sensitizing the Local Government **
+**Sensitizing the Local Government**
 
 In order for this excitement of government officials to carry forward and become tangible it was important to sensitize the higher ranking officials of the organizations. We organized a half day sensitization workshop for these officials. We use the workshop to showcase application of OSM in various thematic areas like agriculture, governance and disaster management. Major part of the showcase was the use of OSM during and after the Nepal earthquake. The workshop was successful in sensitizing the people at policy level. Mayor of Thimphu Thromde , Kinlay Dorjee mentioned "OpenStreetMap can be a tool for Thromde to engage our citizens and connect with the Youth".
 
