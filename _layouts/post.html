@@ -9,6 +9,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="adsense">
+     {% include advertisements.html %}
+  </div>
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
