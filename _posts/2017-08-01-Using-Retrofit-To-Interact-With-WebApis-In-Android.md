@@ -3,11 +3,11 @@ layout: post
 title: Using Retrofit to Interact with WebAPIs in Android
 ---
 
-Managing API calls can sometimes be a pain in the ass. You need to manage making cslls to the server, you need to take care of JSON serilization and desrilization and then take care of inflatig the layout form the data. Most of my time during android development previously was spent in making this work. Recently I found a library which made so much simpler to do this task. Square has this wonderful library called Retrofit and i became a fan as soon as I stumbled upon it. 
+Managing API calls can sometimes be a pain in the ass. You need to manage making calls to the server, take care of JSON serilization and deserilization and then inflate the layout form the data. Most of my time during android development previously was spent in doing this work. Recently I discovered a library which makes this task so much simpler. Square has a wonderful library called Retrofit and i have became a fan. 
 
 **What is Retrofit?**
 
-Retrofit is an Open Source HTTP Client library for Android developed by Square. You can use Retrofit to convert you API into Java interface. You can then define methods in your interface to interact with the API where you can declare things like request method (GET, POST, PUT, DELETE, and HEAD), query params, request body (form encoded and multipart), and http headears. These are supported with the help of JAVA annotations. You can check the details of how to use these different features in the [retrofit website](https://square.github.io/retrofit/). For now let us look at a simple example of how you can use Retrofit to fetch data from your API. 
+Retrofit is an Open Source HTTP Client library for Android developed by Square. You can use Retrofit to convert your API into Java interface. You can then define methods in your interface to interact with the API where you can declare things like request method (GET, POST, PUT, DELETE, and HEAD), query params, request body (form encoded and multipart), and http headears. These are supported with the help of JAVA annotations. You can check the details of how to use these different features in the [retrofit website](https://square.github.io/retrofit/). For now let us look at a simple example of how you can use Retrofit to fetch and parse data from your API. 
 
 
 **Create a POJO class**
