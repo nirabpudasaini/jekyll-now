@@ -7,10 +7,12 @@ Managing API calls can sometimes be a pain in the ass. You need to manage making
 
 **What is Retrofit?**
 
-Retrofit is an Open Source HTTP Client library for Android developed by Square. You can use Retrofit to convert your API into Java interface. You can then define methods in your interface to interact with the API where you can declare things like request method (GET, POST, PUT, DELETE, and HEAD), query params, request body (form encoded and multipart), and http headears. These are supported with the help of JAVA annotations. You can check the details of how to use these different features in the [retrofit website](https://square.github.io/retrofit/). For now let us look at a simple example of how you can use Retrofit to fetch and parse data from your API. 
+Retrofit is an Open Source HTTP Client library for Android developed by Square. Retrofit can be used to convert your API into Java interface. You can then define methods in your interface to interact with the API where you can declare things like request method (GET, POST, PUT, DELETE, and HEAD), query params, request body (form encoded and multipart), and http headears. These are supported with the help of JAVA annotations. You can check the details of how to use these different features in the [retrofit website](https://square.github.io/retrofit/). For now let us look at a simple example of how Retrofit can be used to fetch and parse data from some API. 
 
 
 **Create a POJO class**
+
+This is the class that links data from the API and makes it usable in JAVA. This calss will be based on what your API endpoint outputs. Below is an example of a POJO class that I used for one of my apps which consumes a API providing data for different endagred species.
 
 public class SpeciesDetails {
 
