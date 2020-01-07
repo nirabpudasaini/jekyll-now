@@ -9,13 +9,13 @@ LibreOffice - see
 http://cgit.freedesktop.org/libreoffice/core/tree/filter/source/xslt for the
 code.--><head profile="http://dublincore.org/documents/dcmi-terms/"><meta
 http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title
-xml:lang="en-US">Nirab Pudasaini</title><meta name="DCTERMS.title" content="JOHN
-DOE" xml:lang="en-US"/><meta name="DCTERMS.language" content="en-US"
+xml:lang="en-US">Nirab Pudasaini</title><meta name="DCTERMS.title" content="About Nirab
+Pudasaini" xml:lang="en-US"/><meta name="DCTERMS.language" content="en-US"
 scheme="DCTERMS.RFC4646"/><meta name="DCTERMS.source"
 content="http://xml.openoffice.org/odf2xhtml"/><meta name="DCTERMS.creator"
 content="els"/><meta name="DCTERMS.issued" content="2011-06-09T09:05:00"
-scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.contributor" content="Manoj
-Thapa"/><meta name="DCTERMS.modified" content="2014-05-21T09:50:00"
+scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.contributor" content="Nirab 
+Pudasaini"/><meta name="DCTERMS.modified" content="2014-05-21T09:50:00"
 scheme="DCTERMS.W3CDTF"/><meta name="DCTERMS.provenance" content=""
 xml:lang="en-US"/><meta name="DCTERMS.subject" content=","
 xml:lang="en-US"/><link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"
